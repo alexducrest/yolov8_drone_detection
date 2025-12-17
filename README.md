@@ -113,10 +113,3 @@ This is the beginning of the image detection algorithm project. Current focus:
 - Path configurations may need adjustment based on your environment
 - The dataset uses YOLOv8 format with normalized bounding box coordinates
 
-## License
-
-[Add your license information here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
